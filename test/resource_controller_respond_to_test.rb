@@ -1,6 +1,6 @@
 require 'test/unit'
 
-class ResouceControllerRespondToTest < Test::Unit::TestCase
+class ResourceControllerRespondToTest < Test::Unit::TestCase
   # Replace this with your real tests.
   test "the truth" do
     assert true
