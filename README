@@ -12,7 +12,7 @@ Example
 =======
 
 Just drop this in your plugins folder.                     
-Also, make shure this plugin is loaded AFTER ResourceController>
+Also, make sure this plugin is loaded AFTER ResourceController
 
 You may also want to add the following line to your environment.rb -- in case it's not working
 config.plugins = [ :resource_controller, :resource_controller_respond_to, :all ]
@@ -20,7 +20,7 @@ config.plugins = [ :resource_controller, :resource_controller_respond_to, :all ]
 
 
 
-Based on code by Florend Piteau and Joe Fiorini... Jesper merely provided the glue and packed as plugin. 
+Based on code by Florent Piteau and Joe Fiorini... Jesper merely provided the glue and packed as plugin. 
 See http://groups.google.com/group/resource_controller/browse_thread/thread/ec9100db655bc5a9  
 for the complete discussion
 
